@@ -9,7 +9,7 @@ Once you've run `composer update` you'll need to register the **service provider
 
 ```php
 'providers' => [
-    Ramiawadallah\Prehelpers\PresenterServiceProvider::class
+    Ramiawadallah\Prehelpers\PrehelpersServiceProvider::class
 ]
 ```
 
@@ -20,5 +20,5 @@ Once you've run `composer update` you'll need to register the **service provider
 There's several ways to configure your presenters. First, you can utilize the configuration file, which can be published using the following command:
 
 ```
-$ php artisan vendor:publish --provider="Ramiawadallah\Prehelpers\PresenterServiceProvider"
+$ php artisan vendor:publish --provider="Ramiawadallah\Prehelpers\PrehelpersServiceProvider"
 ```
