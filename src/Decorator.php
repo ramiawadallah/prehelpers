@@ -1,6 +1,6 @@
 <?php
 
-namespace RamiAwadallah\Presenter;
+namespace RamiAwadallah\Prehelpers;
 
 use Illuminate\Support\Collection;
 use Illuminate\Database\Eloquent\Model;

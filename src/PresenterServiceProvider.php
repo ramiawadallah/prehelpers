@@ -1,11 +1,11 @@
 <?php
 
-namespace RamiAwadallah\Presenter;
+namespace RamiAwadallah\Prehelpers;
 
-use RamiAwadallah\Presenter\Decorator;
+use RamiAwadallah\Prehelpers\Decorator;
 use Illuminate\Support\ServiceProvider;
 
-class PresenterServiceProvider extends ServiceProvider
+class PrehelpersServiceProvider extends ServiceProvider
 {
     /**
      * Boot the service provider, set the bindings, and decorate view data.

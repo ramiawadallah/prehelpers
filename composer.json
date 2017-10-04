@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Rami Awdallah",
-            "email": "jason.lewis1991@gmail.com"
+            "email": "rami.moh.awadallah@gmail.com"
         }
     ],
     "require": {
@@ -21,9 +21,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Ramiawadallah\\Prehelpers\\": "src"
+            "RamiAwadallah\\Prehelpers\\": "src"
         }
     },
     "minimum-stability": "dev"
-
 }
