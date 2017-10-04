@@ -2,7 +2,7 @@
 
 
 ```
-$ composer require rami-awadallah/preprehelpers
+$ composer require rami-awadallah/prehelpers
 ```
 
 Once you've run `composer update` you'll need to register the **service provider** in your `config/app.php` file.
