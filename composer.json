@@ -23,5 +23,7 @@
         "psr-4": {
             "Ramiawadallah\\Prehelpers\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
+
 }
