@@ -1,5 +1,5 @@
 {
-    "name": "rami-awadallah/preprehelpers",
+    "name": "rami-awadallah/prehelpers",
     "description": "Simple view presenter library for Laravel.",
     "keywords": ["view", "presenter", "decorator", "laravel"],
     "license": "MIT",
